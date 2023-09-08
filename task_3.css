@@ -1,0 +1,22 @@
+#delete{
+    margin-right: 0;
+} 
+
+  /* li{
+    margin-top: 10px;
+} */
+/* #delBtn{
+    margin-top: 5px;
+    border-radius: 50%;
+    color: blue;
+}   */
+.delete{
+    /*margin-top: 5px;*/
+   
+
+    border-radius: 15px;
+    color: black;
+    background-color: blue;
+    display: flex;
+
+}
